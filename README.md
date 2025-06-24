@@ -10,10 +10,10 @@ https://drive.google.com/file/d/1wk7RftwzFULRCNfI4zrwCRAnKh7s7MBE/view?usp=drive
 ## 프로젝트 구조
 ```
 code/
-├── color_calibration.py/   # 알고리즘 기반 색상 보정 코드
-├── colorchecker.ipynb/      #  ColorChecker 기반 색상 보정 코드
-├── train.py/                # YOLOv11-seg 학습 코드
-└── data_analysis.ipynb      # 데이터 분석 관련 코드
+├── color_calibration.py     # 알고리즘 기반 색상 보정 코드
+├── colorchecker.ipynb       #  ColorChecker 기반 색상 보정 코드
+├── data_analysis.ipynb      # 데이터 분석 관련 코드
+└── train.py                 # YOLOv11-seg 학습 코드
 requirements.txt             # 모델 학습에 사용된 라이브러리 버전
 ```
 
