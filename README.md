@@ -5,7 +5,7 @@
 이 프로젝트는 세종대학교 대학원 강의 '생명과학을 위한 머신러닝 응용 및 실습'의 미니 프로젝트로 수행되었습니다.
 
 ## 프로젝트 발표자료
-
+https://drive.google.com/file/d/1wk7RftwzFULRCNfI4zrwCRAnKh7s7MBE/view?usp=drive_link
 
 ## 프로젝트 구조
 ```
